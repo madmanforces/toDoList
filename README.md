@@ -1,3 +1,1 @@
-# Javascript For Beginners
-
-Learning Javascript by Making a Productivity App
+todo list 클로닝을 진행하면서 바닐라 자바스크립트를 익힌다!
